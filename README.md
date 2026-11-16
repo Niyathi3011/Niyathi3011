@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I am currently working on mitigating toxicity in Large Language Models
 - Always open to collaboration and working on interesting projects.
-- 📫 How to reach me: https://www.linkedin.com/in/niyathi-allu-752221166/, nallu002@ucr.edu
+- 📫 How to reach me: https://www.linkedin.com/in/niyathi-allu/, alluniyathisri@gmail.com
 
 <!--
 **Niyathi3011/Niyathi3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
